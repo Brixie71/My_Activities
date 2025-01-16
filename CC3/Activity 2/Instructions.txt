@@ -1,0 +1,16 @@
+Instructions
+1. Declare and initialize the ages of five students: 16, 20, 17, 18, 17. Then, display all these ages using the following:
+▪ While loop
+▪ Do-while loop
+▪ For loop
+
+2. Declare and initialize the days of the week. Print and output them using the for loop. Create a condition that if the day is Friday, print “TGIF” instead of the word “Friday”.
+
+Sample output:
+Monday
+Tuesday
+Wednesday
+Thursday
+TGIF
+Saturday
+Sunday

@@ -1,0 +1,4 @@
+Instructions
+Direction: Read the instructions carefully. Write your answers on a separate paper.
+1. Create a flowchart asking the user to enter his nickname and age. (MS Word File)
+2. Create the source code. (Java File, if you're using Cellphone, Run first the code to Java App then copy to MS Word)

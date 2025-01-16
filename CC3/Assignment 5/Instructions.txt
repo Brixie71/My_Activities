@@ -1,0 +1,29 @@
+Instructions
+Create a program that accept string from the user then convert the string into character array. The output should be display every element of the array.
+
+
+
+
+Example Input: “JavaScript”
+
+Output:
+
+J
+
+a
+
+v
+
+a
+
+S
+
+c
+
+r
+
+I
+
+p
+
+t

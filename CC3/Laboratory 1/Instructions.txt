@@ -1,0 +1,8 @@
+Instructions
+Problem:
+
+Declare an array variable age, which can create an array of 5 elements of int type and assigns its reference to age.
+
+Print the 5 ages with naming which element it is.
+
+Again print the 5 ages using the for loop.

@@ -1,0 +1,2 @@
+Instructions
+Write a java program that will use looping, array and string datatype that will accept 10 students name. Each student will be ask to input 3 grade. The system will then display the students name, the 3 grades and the average of the grades.

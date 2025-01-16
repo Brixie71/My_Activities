@@ -1,0 +1,5 @@
+Instructions
+Create a single program about string, array and loop that will use the following methods:
+Getting user input using Scanner(System.in)
+Joining two stings using string.concat()
+Comparing two stings using system.equals() 

@@ -1,0 +1,32 @@
+Instructions
+Write a java program that will accept 10 employee name and display those name in their original sorted form and in their reverse form.
+
+
+
+Example Input/Output:
+
+Employee 1: Joe
+
+Employee 2: Karen
+
+Employee 3: Franz
+
+
+
+Original Sorted:
+
+Joe
+
+Karen
+
+Franz
+
+
+
+Reverse Sorted:
+
+Franz
+
+Karen
+
+Joe

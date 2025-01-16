@@ -1,0 +1,8 @@
+Instructions
+Write a Java program to remove a specific element from an array.
+Attach the Java file and screenshot of output. 
+
+Array values: 25,14,56,15,36,56,77,18,29,49
+Index to be remove: Index 1 = 14
+Output the original array values. 
+Output the array values after removing the element. 
